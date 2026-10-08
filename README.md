@@ -26,9 +26,6 @@
 **Streamlit Application:**  
 https://brain-tumor-mri-image-analysis.streamlit.app/
 
-**GitHub Repository:**  
-https://github.com/mrigankadas743442-cpu/Brain-Tumor-MRI-Streamlit
-
 ---
 
 ## 📌 Project Overview
