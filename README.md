@@ -903,6 +903,14 @@ Healthcare AI
 
 Developed as a deep learning and computer vision project demonstrating the application of CNNs and transfer learning to MRI image classification.
 
+# 👨‍💻 Author
+Mriganka Das
+
+MCA Graduate | AI/ML & Data Science Enthusiast
+
+GitHub:
+
+https://github.com/mrigankadas743442-cpu
 ---
 
 # ⚕️ Disclaimer
